@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Mikroprogramma\Mikroprogramma\bin\Debug\Mikroprogramma.exe.config
+C:\Users\ACER\source\repos\Mikroprogramma\Mikroprogramma\bin\Debug\Mikroprogramma.exe
+C:\Users\ACER\source\repos\Mikroprogramma\Mikroprogramma\bin\Debug\Mikroprogramma.pdb
+C:\Users\ACER\source\repos\Mikroprogramma\Mikroprogramma\obj\Debug\Mikroprogramma.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Mikroprogramma\Mikroprogramma\obj\Debug\Mikroprogramma.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Mikroprogramma\Mikroprogramma\obj\Debug\Mikroprogramma.exe
+C:\Users\ACER\source\repos\Mikroprogramma\Mikroprogramma\obj\Debug\Mikroprogramma.pdb
